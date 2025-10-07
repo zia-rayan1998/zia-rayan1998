@@ -49,7 +49,7 @@
 - 🤝 Open to collaborating on ambitious products & OSS
 - 💬 Ask me about <b>React, Node.js, Modern UI, DSA, Productivity</b>
 - 📬 Email: <a href="mailto:ziauddinrayan12@gmail.com">ziauddinrayan12@gmail.com</a>
-- 🧠 Always tinkering—side projects, code, design, and community.
+- 🧠 Always thinking—side projects, code, design, and community.
 
 - 
 ## 🛠️ Tech Stack
